@@ -1,0 +1,36 @@
+[Icon Theme]
+Name=Marvin Red Circles
+Name[it]=Marvin Cerchi Rossi
+Comment=A personal red-circle icon theme for Marvin, based on Simply Red Circles.
+Comment[it]=Tema personale a cerchi rossi per Marvin, basato su Simply Red Circles.
+Version=1.0
+Inherits=Simply-Red-Circles,breeze-dark,breeze,hicolor
+Example=folder
+FollowsColorScheme=false
+DesktopDefault=48
+DesktopSizes=16,22,32,48,64,128,256
+ToolbarDefault=22
+ToolbarSizes=16,22,32,48
+MainToolbarDefault=22
+MainToolbarSizes=16,22,32,48
+SmallDefault=16
+SmallSizes=16,22,32,48
+PanelDefault=48
+PanelSizes=16,22,32,48,64,128,256
+DialogDefault=32
+DialogSizes=16,22,32,48,64,128,256
+Directories=scalable/apps,scalable/places
+
+[scalable/apps]
+Size=48
+Context=Applications
+Type=Scalable
+MinSize=8
+MaxSize=512
+
+[scalable/places]
+Size=48
+Context=Places
+Type=Scalable
+MinSize=8
+MaxSize=512
